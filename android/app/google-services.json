@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766178446819",
+    "project_id": "wedding-organizer-ad78e",
+    "storage_bucket": "wedding-organizer-ad78e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766178446819:android:7f168c4451622365f7a4d6",
+        "android_client_info": {
+          "package_name": "com.example.wedding_organizer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjX3rgR1sG4L_38P_T6FPrgEkhvOOnvDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
